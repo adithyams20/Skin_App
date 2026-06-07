@@ -1,0 +1,168 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "DERMASENSE",
+  "@appTitle": { "description": "App name shown in AppBar" },
+
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {},
+
+  "continueButton": "Continue",
+  "@continueButton": {},
+
+  "loginTitle": "Login",
+  "@loginTitle": {},
+
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {},
+
+  "username": "Username",
+  "@username": {},
+
+  "password": "Password",
+  "@password": {},
+
+  "loginButton": "Login",
+  "@loginButton": {},
+
+  "noAccount": "Don't have an account? Register",
+  "@noAccount": {},
+
+  "registerTitle": "Register",
+  "@registerTitle": {},
+
+  "registerButton": "Register",
+  "@registerButton": {},
+
+  "scanTab": "Scan",
+  "@scanTab": {},
+
+  "historyTab": "History",
+  "@historyTab": {},
+
+  "profileTab": "Profile",
+  "@profileTab": {},
+
+  "uploadTitle": "Upload Image",
+  "@uploadTitle": {},
+
+  "uploadSubtitle": "Take a photo or choose from gallery",
+  "@uploadSubtitle": {},
+
+  "noImageSelected": "No image selected",
+  "@noImageSelected": {},
+
+  "gallery": "Gallery",
+  "@gallery": {},
+
+  "camera": "Camera",
+  "@camera": {},
+
+  "continuePrediction": "Continue to Prediction",
+  "@continuePrediction": {},
+
+  "selectImage": "Please select an image",
+  "@selectImage": {},
+
+  "analyzingSkin": "Analyzing Skin...",
+  "@analyzingSkin": {},
+
+  "predictionFailed": "Prediction failed",
+  "@predictionFailed": {},
+
+  "diagnosisResult": "Diagnosis Result",
+  "@diagnosisResult": {},
+
+  "confidence": "Confidence",
+  "@confidence": {},
+
+  "severe": "Severe",
+  "@severe": {},
+
+  "moderate": "Moderate",
+  "@moderate": {},
+
+  "mild": "Mild",
+  "@mild": {},
+
+  "description": "Description",
+  "@description": {},
+
+  "medicalRecommendation": "Medical Recommendation",
+  "@medicalRecommendation": {},
+
+  "skincareAdvice": "Skincare Advice",
+  "@skincareAdvice": {},
+
+  "historyTitle": "History",
+  "@historyTitle": {},
+
+  "noHistory": "No history found",
+  "@noHistory": {},
+
+  "deleteRecord": "Delete Record",
+  "@deleteRecord": {},
+
+  "deleteConfirm": "Remove this prediction from your history?",
+  "@deleteConfirm": {},
+
+  "recordDeleted": "Record deleted",
+  "@recordDeleted": { "description": "Snackbar message shown after a history record is deleted" },
+
+  "cancel": "Cancel",
+  "@cancel": {},
+
+  "delete": "Delete",
+  "@delete": {},
+
+  "profileTitle": "Profile",
+  "@profileTitle": {},
+
+  "role": "Role",
+  "@role": {},
+
+  "roleUser": "User",
+  "@roleUser": {},
+
+  "roleAdmin": "Admin",
+  "@roleAdmin": {},
+
+  "changePassword": "Change Password",
+  "@changePassword": {},
+
+  "newPassword": "New Password",
+  "@newPassword": {},
+
+  "update": "Update",
+  "@update": {},
+
+  "logout": "Logout",
+  "@logout": {},
+
+  "adminPanel": "Admin Panel",
+  "@adminPanel": {},
+
+  "users": "Users",
+  "@users": {},
+
+  "predictions": "Predictions",
+  "@predictions": {},
+
+  "diseases": "Diseases",
+  "@diseases": {},
+
+  "editDisease": "Edit Disease",
+  "@editDisease": {},
+
+  "save": "Save",
+  "@save": {},
+
+  "serverWaking": "Server is waking up. Please try again in a moment.",
+  "@serverWaking": {},
+
+  "serverUnreachable": "Server unreachable. Please wait and try again.",
+  "@serverUnreachable": {},
+
+  "translating": "Translating...",
+  "@translating": {}
+}

@@ -1,0 +1,31 @@
+name: skin_app
+description: DermaSense skin disease detection app
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # existing
+  camera: ^0.10.6
+  image_picker: ^1.0.0
+  shared_preferences: ^2.2.0
+  http: ^1.2.0
+  dio: ^5.4.0
+  cookie_jar: ^4.0.8
+  dio_cookie_manager: ^3.1.1
+
+  # new for translation
+  translator: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
