@@ -265,18 +265,4 @@ python model/predict.py --image path/to/image.jpg
 
 ---
 
-# Contributors
-
-Developed as a collaborative Final-Year B.Tech Computer Science & Engineering project.
-
-- **Adithya M S**
-- **Gowri Krishna S**
-- **Anuja A**
-- **Ananya Sabar**
-
----
-
-# License
-
-This project was developed as part of a Final-Year B.Tech academic project and is intended for educational and demonstration purposes only.
 
